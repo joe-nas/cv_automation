@@ -9,42 +9,18 @@
 %-------------------------------------------------------------------------------
 \begin{cventries}
 
-{% for entry in data %}
+{% for entry in data -%}
 \cventry
-  {entry.sub_title}
-  {entry.title} % Role
-  {BMC Genomics}
-  {March 2016, BMC Genomics; 17:252} % Date(s)
+  { {{entry.sub_title}} }
+  { {{entry.title}} } % Role
+  { {{entry.location}} }
+  { {{entry.date}}, {{entry.location}} } % Date(s)
   {    
   \begin{cvitems} % Description(s) of experience/contributions/knowledge
-    \item {Available here: https://doi.org/f8vngs}
+    \item {Available here: {{entry.link}} }
   \end{cvitems}
   }
-{% endfor % }
-%---------------------------------------------------------
-\cventry
-  {Comparative Genomics,  Center for Molecular and Biomolecular Informatics Nijmegen} % Role
-  {CTCF-motif directionality controls CTCT-mediated chromatin interactions and correlates with topological domain structure} % Title
-  {Master Internship} % Location
-  {2016} % Date(s)
-  {
-    \begin{cvitems} % Description(s) of experience/contributions/knowledge
-      \item {Available here: https://tinyurl.com/2p9hekax}
-    \end{cvitems}
-  }
-
-  %---------------------------------------------------------
-\cventry
-  {Human Genetics, University Medical Center Nijmegen} % Role
-  {Identification, ranking and testing of p63 binding sites putatively involved in the etiology of non-syndromic cleft lip with or without cleft palate} % Title
-  {Master Internship} % Location
-  {2016} % Date(s)
-  {
-    \begin{cvitems} % Description(s) of experience/contributions/knowledge
-      \item {Available here: https://tinyurl.com/259vt5zk}
-    \end{cvitems}
-  }
-%---------------------------------------------------------
+{% endfor %}
 
 %---------------------------------------------------------
 \end{cventries}

@@ -24,6 +24,8 @@ skills = open_json_file('data/skills.json')
 experience = open_json_file('data/experience.json')
 software = open_json_file('data/projects.json')
 education = open_json_file('data/education.json')
+writing = open_json_file('data/writing.json')
+
 
 skills_output = render_to_tex('j2/skills.tex.j2', data = {'data' : skills['content']})
 save_tex_file('output/skills.tex', skills_output)
@@ -36,3 +38,6 @@ save_tex_file('output/projects.tex', software_output)
 
 education_output = render_to_tex('j2/education.tex.j2', data = {'data' : education['content']})
 save_tex_file('output/education.tex', education_output)
+
+writing_output = render_to_tex('j2/writing.tex.j2', data = {'data' : writing['content']})
+save_tex_file('output/writing.tex', writing_output)
