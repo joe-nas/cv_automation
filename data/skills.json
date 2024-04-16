@@ -13,6 +13,10 @@
           "value": "git"
         },
         {
+          "name": "Cloud Computing",
+          "value": "AWS (EC2, Elastic Beanstalk, RDS, S3)"
+        },
+        {
           "name": "Container and Virtualization",
           "value": "docker, qemu, wsl"
         },

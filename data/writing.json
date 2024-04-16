@@ -4,20 +4,23 @@
         {
             "title": "CTCF-mediated chromatin loops enclose inducible gene regulatory domains",
             "sub_title": "Martin Oti, Jonas Falck, Martijn A. Huynen, Huiqing Zhou",
-            "caption": "March 2016, BMC Genomics; 17: 252",
+            "caption": "BMC Genomics; 17: 252",
+            "date": "March 2016",
             "link": "https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2516-6"
         },
         {
             "title": "CTCF-motif directionality controls CTCT-mediated chromatin interactions and correlates with topological domain structure",
             "sub_title": "Jonas Falck",
-            "caption": "2016, Master Internship at Center for Molecular and Biomolecular Informatics Nijmegen @ Comparative Genomics",
-            "link": "placeholder"
+            "caption": "Master Internship at Center for Molecular and Biomolecular Informatics Nijmegen @ Comparative Genomics",
+            "date": "2016",
+            "link": "https://drive.google.com/file/d/1fE28UxBNoNXvjtaJWrduGhyCLluwIuqX"
         },
         {
             "title": "Identification, ranking and testing of p63 binding sites putatively involved in the etiology of non-syndromic cleft lip with or without cleft palate",
             "sub_title": "Jonas Falck",
-            "caption": "2016, Master Internship at University Medical Center Nijmegen @ Human Genetics",
-            "link": "placeholder"
+            "caption": "Master Internship at University Medical Center Nijmegen @ Human Genetics",
+            "date": "2016",
+            "link": "https://drive.google.com/file/d/1oTAbdeJxjvjaEwvUDPoQi8nnGD8l52i_"
         }
     ]
 }

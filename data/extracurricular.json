@@ -1,60 +1,67 @@
 {
-    "title": "Certificates and Courses",
+    "title": "Courses & Workshops",
     "content": [
         {
             "link": "placeholder",
             "link_text": "Certificate",
-            "sub_title": "The Complete JavaScript Course 2023: From Zero to Expert!, Udemy.com, Online",
+            "sub_title": "The Complete JavaScript Course 2023: From Zero to Expert!",
+            "issuer": "Udemy.com",
             "caption": "2023",
             "description": "Covers basics of JavaScript, from fundamentals like variables, functions, and objects to advanced topics like closures, prototypal inheritance, and asynchronous JavaScript. Also covers modern JavaScript features like ES6 modules, arrow functions, destructuring, and async/await."
         },
         {
             "link": "placeholder",
             "link_text": "Certificate",
-            "sub_title": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023, Udemy.com, Online",
+            "sub_title": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023",
+            "issuer": "Udemy.com",
             "caption": "2023",
             "description": "This Course covers full-stack back-end development, including Node.js, Express, MongoDB, and Mongoose. Building applications using RESTful APIs, and server-side rendering using Pug templates. Advanced features such as authentication, security enhancements, data handling in NoSQL databases is also covered."
         },
         {
             "link": "placeholder",
             "link_text": "Certificate",
-            "sub_title": "Master Spring Boot 3 & Spring Framework 6 with Java, Udemy.com, Online",
+            "sub_title": "Master Spring Boot 3 & Spring Framework 6 with Java",
+            "issuer": "Udemy.com",
             "caption": "2023",
             "description": "Overview of Spring Framework, in particular Spring Boot and Security, with a focus on building Web Applications and REST APIs as well as integration of React with Spring Boot. Gained valuable best practices and troubleshooting skills for Java Spring applications, underpinned by knowledge of contemporary tools such as Maven, Gradle, JUnit, and Mockito."
         },
         {
             "link": "placeholder",
             "link_text": "Certificate",
-            "sub_title": "Java Programming Masterclass, Udemy.com, Online",
+            "sub_title": "Java Programming Masterclass",
+            "issuer": "Udemy.com",
             "caption": "2023",
             "description": "Comprehensive course on Java programming with a complete understanding of core Java development principles. The curriculum covers all aspects of Java programming, from the basics to advanced topics."
         },
         {
             "link": "http://tinyurl.com/v5ytdzhs",
             "link_text": "Certificate",
-            "sub_title": "Machine Learning - Stanford University, Online",
+            "sub_title": "Machine Learning - Stanford University",
+            "issuer": "Coursera.org",
             "caption": "2014",
             "description": "11 week course covering go to methods applied in supervised and unsupervised learning, the implementation in octave as well as topics like regularization and how to tackle problems like bias and overfitting."
         },
         {
             "link": "https://tinyurl.com/3t9xuxdy",
             "link_text": "Certificate",
-            "sub_title": "Intro to Machine Learning - Kaggle.com, Online",
+            "sub_title": "Intro to Machine Learning",
+            "issuer": "Kaggle.com",
             "caption": "2022",
             "description": "This course covered the basics of machine learning using python, giving an introduction into topics like data exploration, model building, model validation, under and overfitting and random forests."
         },
         {
             "link": "https://tinyurl.com/4ec7n95c",
             "link_text": "Certificate",
-            "sub_title": "Pandas - Kaggle.com, Online",
+            "sub_title": "Pandas",
+            "issuer": "Kaggle.com",
             "caption": "2022",
-            "description": "Focused on enhancing data manipulation skills through coursework on the Pandas Python data analysis library."
+            "description": "Focused on enhancing data manipulation skills through coursework with the Pandas Python data analysis library."
         },
         {
-            "title": "Feature Engineering",
             "link": "https://tinyurl.com/2u7kbxyh",
             "link_text": "Certificate",
-            "sub_title": "Kaggle.com, Online Machine-Learning Community",
+            "sub_title": "Feature Engineering",
+            "issuer": "Kaggle.com",
             "caption": "2022",
             "description": "Learned techniques in feature engineering for machine learning tasks, including mutual information-based feature selection, feature creation, clustering, PCA, and target encoding for categorical data."
         }

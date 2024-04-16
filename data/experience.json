@@ -1,35 +1,35 @@
 {
-  "title": "Experience",
-  "content": [
-    {
-      "title": "Radboud University Medical Center Nijmegen",
-      "link": "https://www.radboudumc.nl/en/research/departments/human-genetics",
-      "link_text": "radboudumc.nl",
-      "sub_title": "Human Genetics",
-      "caption": "November 2015 - 2016",
-      "location": "Nijmegen, The Netherlands",
-      "project": "Identification and ranking of p63 binding sites putatively involved in the etiology of non-syndromic cleft lip with or without cleft palate",
-      "description": [
-        "In-silico prediction and in-vitro validation of clinically relevant transcription factor binding sites using an integrative multiomics approach.",
-        "Took ownership of a wetwork research project, transforming it into bioinformatical research, teaching myself the necessary bioinformatic skills.",
-        "Development of a pipeline to integrate publicly available and in-house multi-omics data (Chip-seq, SNP, GWAS, conservation, linkage disequilibrium), to generate reproducible results. haplotplotR: http: //tinyurl.com/4cjw7s5h",
-        "Effective communication and presentation of bioinformatical methods and results to researches with no bioinformatical expertise."
-      ]
-    },
-    {
-      "title": "Center for Molecular and Biomolecular Informatics CMBI",
-      "link": "https://www.radboudumc.nl/en/research/radboud-technology-centers/bioinformatics",
-      "link_text": "radboudumc.nl",
-      "sub_title": "Comparative Genomics",
-      "caption": "2016",
-      "location": "Nijmegen, The Netherlands",
-      "project": "CTCF-motif directionality controls CTCF-mediated chromatin interactions and correlates with topological domain structure",
-      "description": [
-        "Drove and transformed an explorative research project into a hypothesis driven project resulting in a publication (see writing).",
-        "Hypothesis generation by leveraging multi-omics datasets describing different dimensionalities of the genome, ranging 1D (sequence), 2D (ChIP-Seq), and 3D data (ChIA-PET, HI-C).",
-        "Hypothesis testing by applying parametric and non-parametric methods, randomization, as well as modeling of chromatin loops.",
-        "Applying unsupervised machine learning techniques e.g. PCA, HCA as well as a multitude of visualizations for data exploration."
-      ]
-    }
-  ]
+    "title": "Experience",
+    "content": [
+        {
+            "title": "Radboud University Medical Center Nijmegen",
+            "link": "https://www.radboudumc.nl/en/research/departments/human-genetics",
+            "link_text": "radboudumc.nl",
+            "sub_title": "Human Genetics",
+            "caption": "November 2015 - 2016",
+            "project": "Identification and ranking of p63 binding sites putatively involved in the etiology of non-syndromic cleft lip with or without cleft palate",
+            "location": "Nijmegen, The Netherlands",
+            "description": [
+                "In-silico prediction and in-vitro validation of clinically relevant transcription factor binding sites using an integrative multiomics approach.",
+                "Took ownership of a wetwork research project, transforming it into bioinformatical research, teaching myself the necessary bioinformatic skills.",
+                "Development of a pipeline to integrate publicly available and in-house multi-omics data (Chip-seq, SNP, GWAS, conservation, linkage disequilibrium), to generate reproducible results. haplotplotR: http: //tinyurl.com/4cjw7s5h",
+                "Effective communication and presentation of bioinformatical methods and results to researches with no bioinformatical expertise."
+            ]
+        },
+        {
+            "title": "Center for Molecular and Biomolecular Informatics CMBI",
+            "link": "https://www.radboudumc.nl/en/research/radboud-technology-centers/bioinformatics",
+            "link_text": "radboudumc.nl",
+            "sub_title": "Comparative Genomics",
+            "caption": "2016",
+            "project": "CTCF-motif directionality controls CTCF-mediated chromatin interactions and correlates with topological domain structure",
+            "location": "Nijmegen, The Netherlands",
+            "description": [
+                "Drove and transformed an explorative research project into a hypothesis driven project resulting in a publication (see writing).",
+                "Hypothesis generation by leveraging multi-omics datasets describing different dimensionalities of the genome, ranging 1D (sequence), 2D (ChIP-Seq), and 3D data (ChIA-PET, HI-C).",
+                "Hypothesis testing by applying parametric and non-parametric methods, randomization, as well as modeling of chromatin loops.",
+                "Applying unsupervised machine learning techniques e.g. PCA, HCA as well as a multitude of visualizations for data exploration."
+            ]
+        }
+    ]
 }
