@@ -15,14 +15,15 @@ def parse_json(json_string):
     data = json.loads(json_string)
     return data
 
-skills = open_json_file('data/skills.json')
-experience = open_json_file('data/experience.json')
-software = open_json_file('data/projects.json')
-
 def render_to_tex(template_path, data):
     with open(template_path, 'r') as file:
         template = Template(file.read())
     return template.render(data)
+
+skills = open_json_file('data/skills.json')
+experience = open_json_file('data/experience.json')
+software = open_json_file('data/projects.json')
+education = open_json_file('data/education.json')
 
 skills_output = render_to_tex('j2/skills.tex.j2', data = {'data' : skills['content']})
 save_tex_file('output/skills.tex', skills_output)
@@ -32,3 +33,6 @@ save_tex_file('output/experience.tex', experience_output)
 
 software_output = render_to_tex('j2/software.tex.j2', data = {'data' : software['content']})
 save_tex_file('output/projects.tex', software_output)
+
+education_output = render_to_tex('j2/education.tex.j2', data = {'data' : education['content']})
+save_tex_file('output/education.tex', education_output)
