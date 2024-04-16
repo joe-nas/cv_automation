@@ -1,0 +1,30 @@
+{
+  "title": "Projects",
+  "content": [
+    {
+      "title": "Iron Delirium™ - The Workout Tracker that Noone asked for",
+      "links": [
+        {
+          "url": "https://github.com/joe-nas/workout-app-frontend-next",
+          "text": "Iron Delirium™ frontend"
+        },
+        {
+          "url": "https://github.com/joe-nas/workout-app",
+          "text": "Iron Delirium™ backend"
+        }
+      ],
+      "link": [
+        "https://github.com/joe-nas/workout-app-frontend-next",
+        "https://github.com/joe-nas/workout-app"
+      ],
+      "link_text": ["Iron Delirium™ frontend", "Iron Delirium™ backend"],
+      "description": "Iron Delirium™ is a workout tracker that allows users to track their workouts and progress over time. Users can create an account, log in, and create workouts. Workouts can be edited and deleted, and users can view their workout history. Iron Delirium™ is built using Spring Boot/Security and MongoDb in the backend and Next.js in the frontend."
+    },
+    {
+      "title": "haploplotR - Visualizing linkage disequilibrium from 1000 genomes data",
+      "link": "https://github.com/joe-nas/haploplotR",
+      "link_text": "haploplotR",
+      "description": "HaploplotR is a project that provides a tool for visualizing linkage disequilibrium patterns in human populations using data from the 1000 Genomes Project. HaploplotR uses haplotype data from the 1000 Genomes Project to generate LD plots, which show patterns of correlation between alleles at different loci across the genome. These plots can help researchers to identify regions of the genome that are associated with particular traits or diseases."
+    }
+  ]
+}

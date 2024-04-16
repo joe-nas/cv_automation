@@ -1,0 +1,29 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Experience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+{% for entry in data %}
+%---------------------------------------------------------
+  \cventry
+    { {{entry.title}}, {{entry.sub_title}} } % Organization
+    { {{entry.project}} } % Job
+    { {{entry.location}} } % Location
+    { {{entry.caption}} } % Date
+    { 
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+      {% for row in entry.description -%}
+        \item { {{ row }} }
+      {% endfor %}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+{% endfor %}
+\end{cventries}
+\newpage

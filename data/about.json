@@ -1,0 +1,9 @@
+{
+  "about_profile_image": "images/profile.jpg",
+  "about_content": "Hi, my name is Jonas and I am a trained (medical) biologist with interest in bioinformatics, data science and web-technologies (In no particular order). During my studies I started to gain interest in the analysis of next-gen sequencing data which entails a lot of data handling and computer assisted data analysis, hence I learned coding in python and R.<br>Next to my studies I was also interested in web-technology and how dynamic content is served to the user. Checking out CMS's like drupal or wordpress left me unsatisfied and given I was busy with python I built my first toy project a news aggregator using Django.<br>More recently I delved into Java with Spring for robust backend development and in JavaScript mainly for frontend web development. Using JavaScript and React I built this website, but also the front end of my current toy project Iron Delirium™ -The Workout Tracker that Noone asked for.",
+  "name": "Jonas Falck",
+  "title": "Bioinformatics - Data Analysis - Web Development",
+  "email": "jonas@falcken.de",
+  "website": "joe-nas.github.io",
+  "github_username": "joe-nas"
+}

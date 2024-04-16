@@ -1,0 +1,28 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Software}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+{% for entry in data -%}
+  \cventry
+  {Jonas Falck}
+  { {{entry.title}} } % Role
+  {
+  {% for link in entry.links -%}
+  \href{ {{link.url}} }{ {{link.text}} }{% if not loop.last %},{% endif %}
+  {% endfor -%}
+  }
+  {} % Date(s)
+  {    
+  \begin{cvitems} % Description(s) of experience/contributions/knowledge
+    \item { {{entry.description}} }
+  \end{cvitems}
+  }
+ {% endfor -%} 
+%---------------------------------------------------------
+\end{cventries}

@@ -1,0 +1,14 @@
+\begin{cvskills}
+{% for entry in data %}
+    \cvskill
+        { {{ entry.sub_title }} }
+        {
+            \begin{cvitems}
+                {% for skill in entry.skills -%}
+                    \item {\textbf{ {{ skill.name }} }: {{ skill.value }}}
+                {% endfor %}
+            \end{cvitems}
+        }
+%------------------------------%
+{% endfor %}
+\end{cvskills}

@@ -1,0 +1,93 @@
+{
+  "title": "Skills I aquired Over the years",
+  "content": [
+    {
+      "sub_title": "IT-Skills",
+      "skills": [
+        {
+          "name": "Operating Systems",
+          "value": "Linux (10+ years Arch and Debian-based distributions), Windows, macOS"
+        },
+        {
+          "name": "Version Control",
+          "value": "git"
+        },
+        {
+          "name": "Container and Virtualization",
+          "value": "docker, qemu, wsl"
+        },
+        {
+          "name": "Productivity and Office",
+          "value": "Shell scripting, Regular expressions, LaTeX, Markdown, Pandoc, Microsoft Office Suite"
+        }
+      ]
+    },
+    {
+      "sub_title": "Web-Development",
+      "skills": [
+        {
+          "name": "Languages",
+          "value": "Java, JavaScript, Python"
+        },
+        {
+          "name": "Frameworks",
+          "value": "Basics of Spring (Boot, Security), React, Next.js, Node.js/Express.js, Django"
+        },
+        {
+          "name": "Databases",
+          "value": "MongoDB, SQL"
+        },
+        {
+          "name": "Other Web-related Skills",
+          "value": "HTML, tailwindcss"
+        },
+        {
+          "name": "Webserver",
+          "value": "Nginx, Shiny"
+        }
+      ]
+    },
+    {
+      "sub_title": "Data Science, Machine Learning and Bioinformatics",
+      "skills": [
+        {
+          "name": "Languages",
+          "value": "Python, R/bioconductor"
+        },
+        {
+          "name": "Libraries",
+          "value": "scikit-learn, pandas, numpy, caret, tidyverse, biomaRt, Rcpp, data.table, grid, shiny, bedtools"
+        },
+        {
+          "name": "Databases",
+          "value": "GEO DataSets, dbSNP, RefSeq, OMIM, 1000Genomes, UCSC"
+        },
+        {
+          "name": "Visualization",
+          "value": "Publication ready plots, development of custom visualizations using grid, ggplot2, seaborn, matplotlib"
+        },
+        {
+          "name": "Supervised",
+          "value": "Linear regression, knn, decision trees, random forests"
+        },
+        {
+          "name": "Unsupervised",
+          "value": "HCA, PCA, kmeans"
+        },
+        {
+          "name": "Statistics",
+          "value": "Parametric and non-parametric methods"
+        }
+      ]
+    },
+    {
+      "sub_title": "Languages",
+      "skills": [
+        {
+          "name": "Fluency in speech and writing",
+          "value": "English, Dutch(nt2), German(native)"
+        }
+      ]
+    }
+  ]
+}
