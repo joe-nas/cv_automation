@@ -17,7 +17,9 @@ def parse_json(json_string):
 
 def render_to_tex(template_path, data):
     with open(template_path, 'r') as file:
-        template = Template(file.read())
+        template = Template(file.read(),
+                            lstrip_blocks=True, 
+                            trim_blocks=True)
     return template.render(data)
 
 skills = open_json_file('data/skills.json')
