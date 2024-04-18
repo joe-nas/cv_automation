@@ -4,3 +4,7 @@ Given that maintaining my gh-pages and Awesome-CV is a hassle, I want to store m
 
 - On push to this repo, a repository_dispatch to my gh-pages and Awesome-CV repos should happen.
 - On receiving the repository_dispatch the other repos will checkout this repo and build the gh-pages (and publish) and CV respectively.
+
+### to-do
+
+- to separate concerns, move the python script and jinja2 templates to the Awesome-Cv repo where the latex files are actually used.
