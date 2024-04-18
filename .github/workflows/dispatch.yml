@@ -8,7 +8,7 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.PAT }}
-          repository: joe-nas/gh-pages
+          repository: joe-nas/joe-nas.github.io
           event-type: data-changed
 
       - name: Repository Dispatch to Awesome-CV
