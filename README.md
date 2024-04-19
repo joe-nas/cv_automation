@@ -8,3 +8,5 @@ Given that maintaining my gh-pages and Awesome-CV is a hassle, I want to store m
 ### to-do
 
 - to separate concerns, move the python script and jinja2 templates to the Awesome-Cv repo where the latex files are actually used.
+
+test push
