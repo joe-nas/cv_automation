@@ -11,10 +11,3 @@ jobs:
         repository: joe-nas/Awesome-CV
         event-type: data-changed
         client-payload: '{"ref": "${{ github.ref }}"}'
-
-        # - name: Repository Dispatch to gh-pages
-        #   uses: peter-evans/repository-dispatch@v3
-        #   with:
-        #     # token: ${{ secrets.PAT }}
-        #     repository: joe-nas/joe-nas.github.io
-        #     event-type: data-changed
