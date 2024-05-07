@@ -10,7 +10,7 @@ jobs:
         token: ${{ secrets.PAT }}
         repository: joe-nas/Awesome-CV
         event-type: data-changed
-        client-payload: '{"ref": "${{ github.ref_name }}"}'
+        client-payload: '{"ref_name": "${{ github.ref_name }}"}'
     
     - name: echo ref name
       run: echo "${{ github.ref_name }}"
