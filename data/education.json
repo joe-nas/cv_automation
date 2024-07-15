@@ -1,18 +1,18 @@
 {
-    "title": "Education",
+    "title": "Ausbildung",
     "content": [
         {
-            "title": "Radboud University, Nijmegen, Netherlands",
-            "caption": "2015 - dropout",
-            "sub_title": "MSc Medical Biology/Medical Epigenomics",
-            "location": "Nijmegen, Netherlands",
+            "title": "Radboud Universität, Nijmegen, Netherlands",
+            "caption": "2015 - abgebrochen",
+            "sub_title": "MSc Medizinische Biologie/Medizinische Epigenomik",
+            "location": "Nimwegen, Niederlande",
             "institution": "Radboud University"
         },
         {
-            "title": "Radboud University, Nijmegen, Netherlands",
+            "title": "Radboud Universität, Nijmegen, Netherlands",
             "caption": "2012 - 2015",
-            "sub_title": "BSc Medical Biology",
-            "location": "Nijmegen, Netherlands",
+            "sub_title": "BSc Medizinische Biologie",
+            "location": "Nimwegen, Niederlande",
             "institution": "Radboud University"
         }
     ]

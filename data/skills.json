@@ -1,15 +1,15 @@
 {
-  "title": "Skills I aquired Over the years",
+  "title": "Fähigkeiten, die ich mir im Laufe der Jahre angeeignet habe",
   "content": [
     {
-      "sub_title": "IT-Skills",
+      "sub_title": "IT-Kenntnisse",
       "skills": [
         {
-          "name": "Operating Systems",
-          "value": "Linux (10+ years Arch and Debian-based distributions), Windows, macOS"
+          "name": "Betriebssysteme",
+          "value": "Linux (10+ years Arch und auf Debian basierende Distributionen), Windows, macOS"
         },
         {
-          "name": "Version Control",
+          "name": "Versionskontrolle",
           "value": "git"
         },
         {
@@ -17,32 +17,32 @@
           "value": "AWS (EC2, Elastic Beanstalk, RDS, S3)"
         },
         {
-          "name": "Container and Virtualization",
+          "name": "Container und Virtualisierung",
           "value": "docker, qemu, wsl"
         },
         {
-          "name": "Productivity and Office",
-          "value": "Shell scripting, Regular expressions, LaTeX, Markdown, Pandoc, Microsoft Office Suite"
+          "name": "Produktivität und Büro",
+          "value": "Shell-Skripting, Regular expressions, LaTeX, Markdown, Pandoc, Microsoft Office Suite"
         }
       ]
     },
     {
-      "sub_title": "Web-Development",
+      "sub_title": "Webentwicklung",
       "skills": [
         {
-          "name": "Languages",
+          "name": "Sprachen",
           "value": "Java, JavaScript, Python"
         },
         {
           "name": "Frameworks",
-          "value": "Basics of Spring (Boot, Security), React, Next.js, Node.js/Express.js, Django"
+          "value": "Grundlagen von Spring (Boot, Security), React, Next.js, Node.js/Express.js, Django"
         },
         {
-          "name": "Databases",
+          "name": "Datenbanken",
           "value": "MongoDB, SQL"
         },
         {
-          "name": "Other Web-related Skills",
+          "name": "Andere webbezogene Fähigkeiten",
           "value": "HTML, tailwindcss"
         },
         {
@@ -52,44 +52,44 @@
       ]
     },
     {
-      "sub_title": "Data Science, Machine Learning and Bioinformatics",
+      "sub_title": "Datenwissenschaft, maschinelles Lernen und Bioinformatik",
       "skills": [
         {
-          "name": "Languages",
+          "name": "Sprachen",
           "value": "Python, R/bioconductor"
         },
         {
-          "name": "Libraries",
+          "name": "Bibliotheken",
           "value": "scikit-learn, pandas, numpy, caret, tidyverse, biomaRt, Rcpp, data.table, grid, shiny, bedtools"
         },
         {
-          "name": "Databases",
+          "name": "Datenbanken",
           "value": "GEO DataSets, dbSNP, RefSeq, OMIM, 1000Genomes, UCSC"
         },
         {
-          "name": "Visualization",
+          "name": "Visualisierung",
           "value": "Publication ready plots, development of custom visualizations using grid, ggplot2, seaborn, matplotlib"
         },
         {
-          "name": "Supervised",
+          "name": "Überwachtes maschinelles Lernen",
           "value": "Linear regression, knn, decision trees, random forests"
         },
         {
-          "name": "Unsupervised",
+          "name": "Unbeaufsichtigtes maschinelles Lernen",
           "value": "HCA, PCA, kmeans"
         },
         {
-          "name": "Statistics",
-          "value": "Parametric and non-parametric methods"
+          "name": "Statistik",
+          "value": "Parametrische und nichtparametrische Methoden"
         }
       ]
     },
     {
-      "sub_title": "Languages",
+      "sub_title": "Sprachen",
       "skills": [
         {
-          "name": "Fluency in speech and writing",
-          "value": "English, Dutch(nt2), German(native)"
+          "name": "Fließende Sprache und Schrift",
+          "value": "Englisch, Niederländisch(nt2), Deutsch(Muttersprache)"
         }
       ]
     }
